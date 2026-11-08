@@ -82,6 +82,6 @@ Python, Pandas, Scikit-learn, XGBoost, Matplotlib.
 
 ## Files
 
-- `churn_prediction.ipynb` — full notebook
+- `Customer_Churn_Prediction.ipynb` — full notebook
 - `model_comparison.png` — metric comparison chart
 - `README.md` — this file
